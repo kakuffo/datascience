@@ -1,0 +1,20 @@
+{
+  "id": 185282585,
+  "url": "https://api.github.com/authorizations/185282585",
+  "app": {
+    "name": "sublime-github",
+    "url": "https://developer.github.com/v3/oauth_authorizations/",
+    "client_id": "00000000000000000000"
+  },
+  "token": "deabdc633e8f73d3de48bccffe58c7dffa935f62",
+  "hashed_token": "718d18883448d5118c1a6a05143d2cb7571720dff59e125052f82ca72211f809",
+  "token_last_eight": "fa935f62",
+  "note": "sublime-github",
+  "note_url": null,
+  "created_at": "2018-05-02T19:34:28Z",
+  "updated_at": "2018-05-02T19:34:28Z",
+  "scopes": [
+    "gist"
+  ],
+  "fingerprint": null
+}
