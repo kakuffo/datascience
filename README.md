@@ -31,13 +31,31 @@ pip is a package management system used to install and manage software packages 
 
 ##### pip - Search
 
+``pip search * `` - Will search all available packages for pip
 
 ##### Pip - Install a package
 
+``pip install pytest`` - Will install the PyTest framework which can be used for data testing
 
 ##### Pip - Uninstall a package
 
+``pip uninstall pytest`` - Will uninstall the PyTest
+
 ##### Pip - Show information
+
+``pip show information pyTest``
+
+``Name: pytest
+Version: 3.5.1
+Summary: pytest: simple powerful testing with Python
+Home-page: http://pytest.org
+Author: Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin and others
+Author-email: None
+License: MIT license
+Location: /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages
+Requires: attrs, py, more-itertools, setuptools, pluggy, six
+Required-by:``
+
 
 ### grep
 
