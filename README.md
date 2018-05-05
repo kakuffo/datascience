@@ -1,6 +1,6 @@
-#Data Science - Sublime Text Environment configurations
+# Data Science - Sublime Text Environment configurations
 
-##Generating Token for gitHub for sublimeText
+## Generating Token for gitHub for sublimeText
 
 ``curl -u {github kakuffo} -d '{"scopes":["gist"], "note": "sublime-github"}' https://api.github.com/authorizations``
 
