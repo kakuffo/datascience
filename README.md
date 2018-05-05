@@ -27,6 +27,8 @@ pip is a package management system used to install and manage software packages 
 
 ``sudo easy_install pip``
 
+#### key-commands examples
+
 
 ### grep
 
@@ -35,12 +37,17 @@ grep searches input files for lines containing a match to a given pattern list. 
 
 ``brew install grep --with-default-names``
 
+#### key-commands examples
+
 
 ### wdiff
 
 wdiff is a front end to diff for comparing files on a word per word basis. It works by creating two temporary files, one word per line, and then executes diff on these files. It collects the diff output and uses it to produce a nicer display of word differences between the original files.
 
 ``brew install wdiff --with-gettext``
+
+#### key-commands examples
+
 
 
 ###  ed
@@ -49,17 +56,31 @@ GNU ed is a line-oriented text editor. It is used to create, display, modify and
 
 ``brew install ed --with-default-names``
 
+
+#### key-commands examples
+
+
+
 ### findutills
 
 The GNU Find Utilities are the basic directory searching utilities of the GNU operating system. These programs are typically used in conjunction with other programs to provide modular and powerful directory search and file locating capabilities to other commands.
 
 ``brew install findutils --with-default-names``
 
+
+#### key-commands examples
+
+
+
 ### gnu-indent
 
 The indent program can be used to make code easier to read. It can also convert from one style of writing C to another. indent understands a substantial amount about the syntax of C, but it also attempts to cope with incomplete and misformed syntax.
 
 ``brew install gnu-indent --with-default-names``
+
+
+#### key-commands examples
+
 
 ### gnu-sed
 
@@ -68,11 +89,17 @@ sed is a stream editor. A stream editor is used to perform basic text transforma
 ``brew install gnu-sed --with-default-names``
 
 
+#### key-commands examples
+
+
 ### gnu-tar
 
 GNU tar creates and manipulates archives which are actually collections of many other files; the program provides users with an organized and sys- tematic method for controlling a large amount of data. The name “tar” originally came from the phrase “Tape ARchive”, but archives need not (and these days, typically do not) reside on tapes.
 
 ``brew install gnu-tar --with-default-names``
+
+#### key-commands examples
+
 
 
 ### gnu-which
@@ -84,9 +111,17 @@ GNU tar creates and manipulates archives which are actually collections of many 
 
 ``brew install gnutls``
 
+
+#### key-commands examples
+
+
 ### gzip
 
 ``brew install gzip``
+
+
+
+#### key-commands examples
 
 
 ### gnu-screen
