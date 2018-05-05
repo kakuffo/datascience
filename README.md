@@ -89,28 +89,37 @@ GNU tar creates and manipulates archives which are actually collections of many 
 ``brew install gzip``
 
 
-### screen
+### gnu-screen
+
+Screen is a full-screen window manager that multiplexes a physical terminal between several processes, typically interactive shells. Each virtual terminal provides the functions of the.
+
 
 ``brew install screen``
 
 
 ### watch
 
+watch is a command-line tool, part of the Linux procps and procps-ng packages, that runs the specified command repeatedly and displays the results on standard output so you can watch it change over time.
 
 ``brew install watch``
 
 
-### wget
+### gnu-wget
+
+ GNU Wget. A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 
 ``brew install wget``
 
 
 ### binutils
 
+The GNU Binary Utilities, or binutils, are a set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code.
+
 ``brew install binutils``
 
-### diffutils
+### gnu-diffutils
 
+GNU Diffutils. GNU Diffutils is a package of several programs related to finding differences between files. Computer users often find occasion to ask how two files differ.
 
 ``brew install diffutils``
 
