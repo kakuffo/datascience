@@ -75,30 +75,48 @@ GNU tar creates and manipulates archives which are actually collections of many 
 ``brew install gnu-tar --with-default-names``
 
 
+### gnu-which
 
 ``brew install gnu-which --with-default-names``
 
 
+### gnu-tls
+
 ``brew install gnutls``
 
+### gzip
 
 ``brew install gzip``
 
 
+### screen
+
 ``brew install screen``
+
+
+### watch
 
 
 ``brew install watch``
 
 
+### wget
+
 ``brew install wget``
 
 
+### binutils
+
 ``brew install binutils``
+
+### diffutils
 
 
 ``brew install diffutils``
 
+### gnu-gawk
+
+The awk utility interprets a special-purpose programming language that makes it possible to handle simple data-reformatting jobs easily with just a few lines of code. This manual teaches you what awk does and how you can use awk effectively.
 
 ``brew install gawk``
 
