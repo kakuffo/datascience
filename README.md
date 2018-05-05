@@ -29,6 +29,15 @@ pip is a package management system used to install and manage software packages 
 
 #### key-commands examples
 
+##### pip - Search
+
+
+##### Pip - Install a package
+
+
+##### Pip - Uninstall a package
+
+##### Pip - Show information
 
 ### grep
 
