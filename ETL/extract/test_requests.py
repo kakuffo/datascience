@@ -8,6 +8,7 @@ r = requests.get(url)
 with open('/Users/kwameakuffo/Alaska.zip', 'wb') as f:
     f.write(r.content)
 
+
 # Retrieve HTTP meta-data
 print(r.status_code)
 print(r.headers['content-type'])
