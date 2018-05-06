@@ -23,7 +23,15 @@ urllib.request.urlretrieve(url, '/Users/data/downloads/Alaska.zip')
 
 ## urllib2
 
+````
+import urllib2
 
+filedata = urllib2.urlopen('https://www2.census.gov/census_2010/01-Redistricting_File--PL_94-171/Alaska/ak2010.pl.zip')
+datatowrite = filedata.read()
+with open('/Users/data/downloads/Alaska.zip', 'wb') as f:
+f.write(datatowrite)
+
+    ````
 
 ## requests
 

@@ -2,6 +2,11 @@
 
 ## File system Command
 
+Open the Terminal app found in /Applications/Utilities/
+At a fresh bash prompt, hit the Escape key twice
+You will see a message stating “Display all 1460 possibilities? (y or n)” type “y” key to start showing every command available
+
+
 ### cat
 cat is a standard Unix utility that reads files sequentially, writing them to standard output. The name is derived from its function to concatenate files.
 
