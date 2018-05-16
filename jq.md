@@ -4,6 +4,6 @@
 
 ## Installation
 
-shell``
+``
 brew install jq
 ``
